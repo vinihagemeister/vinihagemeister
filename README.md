@@ -1,4 +1,4 @@
-## Opa!!! Eu sou Vinicius Hagemeister, Analista e Desenvolvedor de sistemas ajudando na formação de profissionais para o mercado Tech com @whiletrue <3
+## Opa!!! Eu sou Vinicius Hagemeister, Analista e Desenvolvedor de sistemas ajudando na formação de profissionais para o mercado Tech com @whiletruecursos <3
 
 <div align="center">
   <a href="https://github.com/vinihagemeister">
@@ -53,8 +53,8 @@
   
   ##
   
- <div> 
+<div> 
    
-<!--  [Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+<!--  [Snake animation](https://github.com/vinihagemeister/vinihagememister/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
