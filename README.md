@@ -1,4 +1,4 @@
-## Opa!!! Eu sou Vinicius Hagemeister, Analista e Desenvolvedor de sistemas ajudando na formação de profissionais para o mercado Tech com @whiletruecursos <3
+## Opa!!! Eu sou Vinicius Hagemeister, Analista e Desenvolvedor de sistemas ajudando na formação de profissionais para o mercado Tech com @whiletruecursos
 
 <div align="center">
   <a href="https://github.com/vinihagemeister">
