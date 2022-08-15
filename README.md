@@ -7,7 +7,7 @@
 </div>
   
   ## Frontend
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -19,17 +19,15 @@
 </div>
   
   ## Backend
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
   <img align="center" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
   <img align="center" alt="NestJS" height="20px" src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667">
   <img align="center" alt="Hibernate" height="20px" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-
- 
  </div>
-  
+ 
   ## Database
   <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -38,14 +36,14 @@
 </div>
   
    ## DevOPS
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Firebase" height="20px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png?hl=pt-br">
 </div>
   
   ## Organization
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -54,7 +52,8 @@
   ##
   
 <div> 
-   
-[Snake animation](https://github.com/vinihagemeister/vinihagememister/blob/output/github-contribution-grid-snake.svg)
+
+ 
+  ![Snake animation](https://github.com/vinihagemeister/vinihagemeister/blob/output/github-contribution-grid-snake.svg)
  
 </div>
