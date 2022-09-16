@@ -41,6 +41,10 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    
+  <img align="center" height="30px" alt="SQLServer" src="https://www.iperiusbackup.net/wp-content/uploads/2016/05/1768.sql_logo.png">
+    
+    
 </div>
   
    ## DevOPS
